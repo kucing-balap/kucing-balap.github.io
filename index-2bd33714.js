@@ -1,0 +1,1 @@
+import{S as s,i as a,s as e,e as n,a as r,b as t,n as o,d as i}from"./main-eeaf5a24.js";function l(s){let a;return{c(){a=n("div"),a.innerHTML="<h1>Hello World...</h1>",r(a,"class","container p-3")},m(s,e){t(s,a,e)},p:o,i:o,o:o,d(s){s&&i(a)}}}export default class extends s{constructor(s){super(),a(this,s,null,l,e,{})}}
